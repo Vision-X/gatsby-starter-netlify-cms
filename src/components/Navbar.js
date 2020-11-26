@@ -85,7 +85,7 @@ const Navbar = class extends React.Component {
                 Tickets
               </a>
               <a className="navbar-item" id="donatinon-navlink" href="https://app.arts-people.com/index.php?donation=pvp">
-                Donation
+                Donate
               </a>
             </div>
             <div className="navbar-end has-text-centered">
