@@ -1,8 +1,8 @@
 ---
 templateKey: show-post
 title: Songs for a New World
-date1: 2020-05-08T06:00:00.000Z
-date2: 2020-05-17T01:30:00.000Z
+date1: 2021-09-03T06:00:00.000Z
+date2: 2021-09-12T01:30:00.000Z
 starttime: 'Fri - 7:30 PM'
 endtime: 'Sat - 2:00 PM & 7:30 PM'
 description: >-
@@ -15,12 +15,4 @@ Generously sponsored by The Brighton Lodging Tax Grant- Platte Valley Players pr
 
 All performances will be held a the Armory Performing Arts Center.
 
-Performance Dates/Times:
-
-Friday May 8  @ 7:30 PM
-
-Saturday May 9  @ 2 PM & 7:30 PM
-
-Friday May 15 @ 7:30 PM
-
-Saturday May 16 @ 2 PM & 7:30 PM
+Performance Dates are currently TBD.
