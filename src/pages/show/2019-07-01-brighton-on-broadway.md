@@ -15,13 +15,11 @@ description: >-
 featuredpost: true
 featuredimage: /img/pvp-chitty-bang-music-man-jr-poster-0321-final-1-.jpg
 ---
+April 16 & 17  
 
+Music Man Kids- Friday, April 16 @ 6:00 PM & Saturday, April 17 @ 12:30 PM & 6:00 PM
 
-**April 16 & 17**  
-
-**Music Man Kids- Friday, April 16 @ 6:00 PM & Saturday, April 17 @ 12:30 PM & 6:00 PM**
-
-**Chitty Chitty Bang Bang Jr - Friday, April 16 @ 7:30 PM & Saturday, April 17 @ 2 PM & 7:30 PM**
+Chitty Chitty Bang Bang Jr - Friday, April 16 @ 7:30 PM & Saturday, April 17 @ 2 PM & 7:30 PM
 
 Tickets
 
