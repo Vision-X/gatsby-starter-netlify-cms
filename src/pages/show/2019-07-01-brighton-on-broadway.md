@@ -27,5 +27,3 @@ Tickets
 
 * $10 for one show 
 * $15 for both shows
-
-[BUY TICKETS](https://app.arts-people.com/index.php?show=122778)
