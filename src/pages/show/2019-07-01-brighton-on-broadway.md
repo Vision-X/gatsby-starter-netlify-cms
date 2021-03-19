@@ -17,8 +17,6 @@ featuredimage: /img/pvp-chitty-bang-music-man-jr-poster-0321-final-1-.jpg
 ---
 ![musicman_chittychitty](/img/pvp-music-man-jr-poster-0220-final-1-.jpg "The Music Man Kids & Chitty Chitty Bang Bang, Jr. ")
 
-
-
 **April 16 & 17**  
 
 **Music Man Kids- Friday, April 16 @ 6:00 PM & Saturday, April 17 @ 12:30 PM & 6:00 PM**
@@ -29,3 +27,5 @@ Tickets
 
 * $10 for one show 
 * $15 for both shows
+
+[BUY TICKETS](https://app.arts-people.com/index.php?show=122778)
