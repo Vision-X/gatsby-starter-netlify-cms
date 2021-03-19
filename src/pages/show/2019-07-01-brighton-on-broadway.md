@@ -15,7 +15,7 @@ description: >-
 featuredpost: true
 featuredimage: /img/pvp-chitty-bang-music-man-jr-poster-0321-final-1-.jpg
 ---
-![musicman_chittychitty](/img/pvp-music-man-jr-poster-0220-final-1-.jpg "The Music Man Kids & Chitty Chitty Bang Bang, Jr. ")
+
 
 **April 16 & 17**  
 
