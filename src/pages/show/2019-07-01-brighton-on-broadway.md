@@ -4,7 +4,7 @@ title: 'The Music Man Kids & Chitty Chitty Bang Bang, Jr.  '
 date1: 2021-04-16T06:00:00.000Z
 date2: 2021-04-17T06:00:00.000Z
 starttime: '6:00 PM - 9:00 PM'
-endtime: ''
+endtime: COVID RESTRICTIONS & PROTOCOLS APPLY
 description: >+
   *Current Covid Restrictions & Protocols Apply*
 
