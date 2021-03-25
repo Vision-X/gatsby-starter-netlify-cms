@@ -36,11 +36,9 @@ description: >+
 featuredpost: true
 featuredimage: /img/pvp-chitty-bang-music-man-jr-poster-0321-final-1-.jpg
 ---
-
-
-
-
 Tickets
 
 * $10 for one show 
 * $15 for both shows
+
+\*\*CURRENT COVID RESTRICTIONS & PROTOCOLS APPLY\*\*
