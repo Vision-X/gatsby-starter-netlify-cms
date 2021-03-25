@@ -5,7 +5,16 @@ date1: 2021-04-16T06:00:00.000Z
 date2: 2021-04-17T06:00:00.000Z
 starttime: '6:00 PM - 9:00 PM'
 endtime: ''
-description: >-
+description: >+
+  *Current Covid Restrictions & Protocols Apply*
+
+  *masks are required
+
+  *temperature taken upon arrival
+
+  *socially distanced seating
+
+
   Platte Valley Players Children's Theatre presents The Music Man Kids and
   Chitty Chitty Bang Bang, Junior at the beautiful Armory for the Performing
   Arts Center in downtown Brighton, CO.  
@@ -24,8 +33,6 @@ description: >-
   2 PM & 7:30 PM
 
 
-
-  Current COVID restrictions apply.
 featuredpost: true
 featuredimage: /img/pvp-chitty-bang-music-man-jr-poster-0321-final-1-.jpg
 ---
