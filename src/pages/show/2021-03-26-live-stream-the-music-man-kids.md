@@ -9,7 +9,7 @@ description: >+
   Platte Valley Players are able to offer an online live streaming option for
   their production of Meredith Willson's THE MUSIC MAN, KIDS.  
 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/image0-4-.jpeg
 ---
 
