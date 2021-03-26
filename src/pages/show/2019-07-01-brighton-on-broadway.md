@@ -3,8 +3,8 @@ templateKey: show-post
 title: 'The Music Man Kids & Chitty Chitty Bang Bang, Jr.  - COVID RESTRICTIONS APPLY'
 date1: 2021-04-16T06:00:00.000Z
 date2: 2021-04-17T06:00:00.000Z
-starttime: '6:00 PM - 9:00 PM'
-endtime: COVID RESTRICTIONS & PROTOCOLS APPLY
+starttime: '6:00 PM '
+endtime: '9:00 PM'
 description: >+
   *Current Covid Restrictions & Protocols Apply*
 
