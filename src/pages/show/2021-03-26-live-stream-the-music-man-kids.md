@@ -4,6 +4,7 @@ title: 'Live Stream- The Music Man, Kids'
 date1: 2021-04-16T15:47:55.979Z
 date2: 2021-04-17T15:47:56.003Z
 starttime: '6:00 PM'
+endtime: '6:30 PM'
 description: >+
   Platte Valley Players are able to offer an online live streaming option for
   their production of Meredith Willson's THE MUSIC MAN, KIDS.  
