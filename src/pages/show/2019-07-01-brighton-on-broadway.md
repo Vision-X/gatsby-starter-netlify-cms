@@ -21,8 +21,6 @@ description: >+
   Arts Center in downtown Brighton, CO.  
 
 
-
-
   April 16 & 17 
 
 
