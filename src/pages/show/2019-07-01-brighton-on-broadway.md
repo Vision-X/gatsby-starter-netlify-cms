@@ -6,6 +6,7 @@ date2: 2021-04-17T06:00:00.000Z
 starttime: '6:00 PM '
 endtime: '9:00 PM'
 description: >+
+
   *Current Covid Restrictions & Protocols Apply*
 
   *masks are required
