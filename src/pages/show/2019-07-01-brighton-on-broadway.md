@@ -1,7 +1,7 @@
 ---
 templateKey: show-post
 title: SONGS FOR A NEW WORLD  by Jason Robert Brown
-date1: 2021-10-29T06:00:00.000Z
+date1: 2021-10-09T06:00:00.000Z
 date2: 2021-11-06T06:00:00.000Z
 starttime: '7:30 PM '
 endtime: '9:30 PM'
